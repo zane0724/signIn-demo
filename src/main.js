@@ -11,7 +11,7 @@ Vue.use(ElementUI);
 import axios from "axios"
 // 将Axios挂载到Vue原型上
 Vue.prototype.$http =axios
-axios.defaults.baseURL="http://litc.pro:9999/v1"
+axios.defaults.baseURL="http://www.litc.pro:9999/v1"
 
 
 

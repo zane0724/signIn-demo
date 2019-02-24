@@ -28,6 +28,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+服务器地址:http://www.litc.pro:9999/
+
    ##模块:
 ##登录
     1.点击登录按钮,进行表单验证
